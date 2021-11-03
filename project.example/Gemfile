@@ -1,0 +1,9 @@
+# Install bundler runing "gem install bundler"
+
+# Source for download gems
+source 'https://rubygems.org'
+
+# Here you can insert the gems that you need
+gem 'os', '~> 1.1', '>= 1.1.1'
+
+#Now you just need to run the "bundle" command inside the directory "project.example"
